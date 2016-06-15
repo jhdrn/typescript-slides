@@ -1,1 +1,1 @@
-Slides för Typescript-presentation. Finnas att åskåda på http://jonathanhedren.github.io/typescript-slides.
+Slides för Typescript-presentation. Finns att åskåda på http://jonathanhedren.github.io/typescript-slides.
