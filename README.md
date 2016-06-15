@@ -1,1 +1,0 @@
-Slides för Typescript-presentation.
