@@ -217,7 +217,7 @@ Kan "ärvas"...
 
     var bar: number = foo<number>(5);
 
-    var baz = foo(5); // type infered
+    var baz = foo(5); // type inferred
     
     interface Foo<T, U> {
         bar(arg: T): T;
